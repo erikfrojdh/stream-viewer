@@ -1,0 +1,9 @@
+name: sv
+channels:
+  - conda-forge
+dependencies:
+  - python 
+  - numpy
+  - pyzmq
+  - pyqtgraph
+  - pyside6
